@@ -363,11 +363,6 @@ Contributions are welcome! This project aims to be a learning resource for RAG s
 
 ---
 
-## 📄 License
-
-[Your License Here - e.g., MIT, Apache 2.0]
-
----
 
 ## 🙏 Acknowledgments
 
